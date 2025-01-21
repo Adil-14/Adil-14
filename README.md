@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Adil Khan
 
 🚀 **Data Analyst** | **Data Science** |  
+
 🌟 MSc Data Science & AI student looking to explore how machine learning and AI can make a positive impact, solve real-world challenges, and create meaningful, inclusive solutions
 ---
 
