@@ -15,6 +15,7 @@
 
 ### **Familiar**
 ![R-Studio](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
 
