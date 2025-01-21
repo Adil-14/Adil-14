@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adil Khan
+# Hi, I'm Adil Khan
 
 **Data Analyst** | **Data Science** |  
 
