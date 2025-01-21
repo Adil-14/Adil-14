@@ -2,10 +2,10 @@
 
 **Data Analyst** | **Data Science** |  
 
-* 🌟 MSc Data Science & AI student looking to explore how machine learning and AI can make a positive impact, solve real-world challenges, and create meaningful, inclusive solutions
+** 🌟 MSc Data Science & AI student looking to explore how machine learning and AI can make a positive impact, solve real-world challenges, and create meaningful, inclusive solutions**
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### **Proficient**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -20,7 +20,7 @@
 
 ---
 
-## 🎯 Professional Skills
+## Professional Skills
 
 ![Communication](https://img.shields.io/badge/Communication-5E4A9A?style=for-the-badge)
 ![Teamwork](https://img.shields.io/badge/Teamwork-F46C45?style=for-the-badge)
